@@ -1,5 +1,5 @@
 
-#  Internetowa Platforma Handlowa - API
+#  Online Trading Platform - API
 
 ## Authorization
 
